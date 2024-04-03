@@ -6,7 +6,6 @@ const MyFirstTypeScript: React.FC = () => {
   const displayDate = () => {
     setDate(new Date().toString());
   };
-
   return (
     <div
       style={{
