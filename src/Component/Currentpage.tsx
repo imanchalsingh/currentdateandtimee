@@ -54,5 +54,4 @@ const MyFirstTypeScript: React.FC = () => {
     </div>
   );
 };
-
 export default MyFirstTypeScript;
