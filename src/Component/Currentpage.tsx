@@ -55,3 +55,5 @@ const MyFirstTypeScript: React.FC = () => {
   );
 };
 export default MyFirstTypeScript;
+
+
